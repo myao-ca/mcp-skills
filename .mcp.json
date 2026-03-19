@@ -1,0 +1,9 @@
+{
+  "mcpServers": {
+    "my-memory-server": {
+      "type": "stdio",
+      "command": "python",
+      "args": ["D:/LearningYM/ClaudeCode/mcp_skills/step2_mcp_server/memory_server.py"]
+    }
+  }
+}
